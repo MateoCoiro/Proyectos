@@ -1,0 +1,66 @@
+[INFO] 19:32:52:370 CPU/(28352:28352): Conexion establecida con la memoria
+[INFO] 19:32:52:371 CPU/(28352:28354): Puerto interrupt listo para recibir
+
+[INFO] 19:32:52:371 CPU/(28352:28353): Puerto dispatch listo para recibir
+
+[INFO] 19:48:25:240 CPU/(29463:29463): Conexion establecida con la memoria
+[INFO] 19:48:25:241 CPU/(29463:29464): Puerto dispatch listo para recibir
+
+[INFO] 19:48:25:241 CPU/(29463:29465): Puerto interrupt listo para recibir
+
+[ERROR] 19:48:30:438 CPU/(29463:29465): Error, recepcion erronea de interrupcion
+[INFO] 20:18:33:249 CPU/(31499:31499): Conexion establecida con la memoria
+[INFO] 20:18:33:249 CPU/(31499:31500): Puerto dispatch listo para recibir
+
+[INFO] 20:18:33:249 CPU/(31499:31501): Puerto interrupt listo para recibir
+
+[ERROR] 20:18:37:828 CPU/(31499:31501): Error, recepcion erronea de interrupcion
+[INFO] 20:18:43:380 CPU/(31532:31532): Conexion establecida con la memoria
+[INFO] 20:18:43:381 CPU/(31532:31533): Puerto dispatch listo para recibir
+
+[INFO] 20:18:43:381 CPU/(31532:31534): Puerto interrupt listo para recibir
+
+[INFO] 23:56:26:913 CPU/(8843:8843): Conexion establecida con la memoria
+[INFO] 23:56:26:914 CPU/(8843:8844): Puerto dispatch listo para recibir
+
+[INFO] 23:56:26:914 CPU/(8843:8845): Puerto interrupt listo para recibir
+
+[INFO] 23:56:30:860 CPU/(8843:8844): Ejecuto proceso: 0
+[INFO] 23:56:31:126 CPU/(8843:8845): Mensaje Recibido: Desaloja
+[INFO] 23:56:31:126 CPU/(8843:8845): Me interrumpieron
+[INFO] 23:56:31:163 CPU/(8843:8844): Ejecuto proceso: 0
+[INFO] 23:56:31:386 CPU/(8843:8845): Mensaje Recibido: Desaloja
+[INFO] 23:56:31:387 CPU/(8843:8845): Me interrumpieron
+[INFO] 23:56:31:467 CPU/(8843:8844): Ejecuto proceso: 0
+[INFO] 23:56:31:671 CPU/(8843:8845): Mensaje Recibido: Desaloja
+[INFO] 23:56:31:671 CPU/(8843:8845): Me interrumpieron
+[INFO] 23:56:31:773 CPU/(8843:8844): Ejecuto proceso: 0
+[INFO] 23:56:31:874 CPU/(8843:8844): TLB Miss: Proceso 0, Pagina 0
+[INFO] 23:56:32:494 CPU/(8843:8845): Mensaje Recibido: Desaloja
+[INFO] 23:56:32:495 CPU/(8843:8845): Me interrumpieron
+[INFO] 23:56:32:874 CPU/(8843:8844): NEW ENTRY TLB: Pagina 0, Marco: 0 
+[INFO] 23:56:32:874 CPU/(8843:8844): PED_ESC: operacion enviada
+[INFO] 23:56:32:874 CPU/(8843:8844): Mensaje Recibido: OK
+[INFO] 23:56:32:876 CPU/(8843:8844): Ejecuto proceso: 0
+[INFO] 23:56:33:087 CPU/(8843:8844): TLB Hit: Proceso 0, Pagina 0, marco 0
+[INFO] 23:56:33:087 CPU/(8843:8844): PED_ESC: operacion enviada
+[INFO] 23:56:33:087 CPU/(8843:8844): Mensaje Recibido: OK
+[INFO] 23:56:33:291 CPU/(8843:8844): TLB Hit: Proceso 0, Pagina 0, marco 0
+[INFO] 23:56:33:292 CPU/(8843:8844): PED_ESC: operacion enviada
+[INFO] 23:56:33:292 CPU/(8843:8844): Mensaje Recibido: OK
+[INFO] 23:56:33:493 CPU/(8843:8844): TLB Hit: Proceso 0, Pagina 0, marco 0
+[INFO] 23:56:33:493 CPU/(8843:8844): PED_ESC: operacion enviada
+[INFO] 23:56:33:493 CPU/(8843:8844): Mensaje Recibido: OK
+[INFO] 23:56:33:699 CPU/(8843:8844): TLB Hit: Proceso 0, Pagina 0, marco 0
+[INFO] 23:56:33:700 CPU/(8843:8844): PED_ESC: operacion enviada
+[INFO] 23:56:33:700 CPU/(8843:8844): Mensaje Recibido: OK
+[INFO] 23:56:33:909 CPU/(8843:8844): TLB Miss: Proceso 0, Pagina 1
+[INFO] 23:56:34:910 CPU/(8843:8844): NEW ENTRY TLB: Pagina 1, Marco: 1 
+[INFO] 23:56:34:910 CPU/(8843:8844): PED_ESC: operacion enviada
+[INFO] 23:56:34:910 CPU/(8843:8844): Mensaje Recibido: OK
+[INFO] 23:56:35:110 CPU/(8843:8844): TLB Hit: Proceso 0, Pagina 1, marco 1
+[INFO] 23:56:35:111 CPU/(8843:8844): PED_ESC: operacion enviada
+[INFO] 23:56:35:111 CPU/(8843:8844): Mensaje Recibido: OK
+[INFO] 23:56:35:311 CPU/(8843:8844): TLB Hit: Proceso 0, Pagina 1, marco 1
+[INFO] 23:56:35:311 CPU/(8843:8844): PED_ESC: operacion enviada
+[INFO] 23:56:35:311 CPU/(8843:8844): Mensaje Recibido: (null)

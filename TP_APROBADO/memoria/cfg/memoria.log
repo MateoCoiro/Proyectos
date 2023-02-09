@@ -1,0 +1,27 @@
+[INFO] 19:32:51:370 MEMORIA/(28343:28343): Memoria lista para recibir
+[INFO] 19:45:20:276 MEMORIA/(29212:29212): èØ
+[INFO] 19:45:20:276 MEMORIA/(29212:29212): Memoria lista para recibir
+[INFO] 19:45:38:665 MEMORIA/(29247:29247): 127.0.0.1
+[INFO] 19:45:38:665 MEMORIA/(29247:29247): Memoria lista para recibir
+[INFO] 19:48:24:337 MEMORIA/(29458:29458): 127.0.0.1
+[INFO] 19:48:24:337 MEMORIA/(29458:29458): Memoria lista para recibir
+[INFO] 20:18:32:501 MEMORIA/(31487:31487): 127.0.0.1
+[INFO] 20:18:32:502 MEMORIA/(31487:31487): Memoria lista para recibir
+[INFO] 20:18:42:676 MEMORIA/(31527:31527): 127.0.0.1
+[INFO] 20:18:42:676 MEMORIA/(31527:31527): Memoria lista para recibir
+[INFO] 23:56:25:776 MEMORIA/(8838:8838): 127.0.0.1
+[INFO] 23:56:25:776 MEMORIA/(8838:8838): Memoria lista para recibir
+[INFO] 23:56:30:858 MEMORIA/(8838:8839): Proceso 0 inicializado con tamanio 2048 Bytes
+[INFO] 23:56:31:125 MEMORIA/(8838:8839): Proceso 1 inicializado con tamanio 2048 Bytes
+[INFO] 23:56:31:386 MEMORIA/(8838:8839): Proceso 2 inicializado con tamanio 2048 Bytes
+[INFO] 23:56:31:671 MEMORIA/(8838:8839): Proceso 3 inicializado con tamanio 2048 Bytes
+[INFO] 23:56:32:494 MEMORIA/(8838:8839): Proceso 4 inicializado con tamanio 2048 Bytes
+[INFO] 23:56:32:874 MEMORIA/(8838:8840): Marco 0 asignado a pagina 0 en direccion logica 0
+[INFO] 23:56:32:874 MEMORIA/(8838:8840): Write: Se escribio el valor 1 en la posicion de memoria 0
+[INFO] 23:56:33:087 MEMORIA/(8838:8840): Write: Se escribio el valor 2 en la posicion de memoria 4
+[INFO] 23:56:33:292 MEMORIA/(8838:8840): Write: Se escribio el valor 3 en la posicion de memoria 8
+[INFO] 23:56:33:493 MEMORIA/(8838:8840): Write: Se escribio el valor 4 en la posicion de memoria 12
+[INFO] 23:56:33:700 MEMORIA/(8838:8840): Write: Se escribio el valor 5 en la posicion de memoria 16
+[INFO] 23:56:34:910 MEMORIA/(8838:8840): Marco 1 asignado a pagina 1 en direccion logica 256
+[INFO] 23:56:34:910 MEMORIA/(8838:8840): Write: Se escribio el valor 11 en la posicion de memoria 256
+[INFO] 23:56:35:111 MEMORIA/(8838:8840): Write: Se escribio el valor 12 en la posicion de memoria 260

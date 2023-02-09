@@ -1,0 +1,30 @@
+[INFO] 19:32:53:450 KERNEL/(28357:28357): Conexion establecida con la memoria
+[INFO] 19:32:53:450 KERNEL/(28357:28362): Kernel listo para recibir
+[INFO] 19:48:26:768 KERNEL/(29474:29474): 127.0.0.1
+[INFO] 19:48:26:768 KERNEL/(29474:29474): Conexion establecida con la memoria
+[INFO] 19:48:26:769 KERNEL/(29474:29479): Kernel listo para recibir
+[INFO] 20:18:34:347 KERNEL/(31510:31510): Conexion establecida con la memoria
+[INFO] 20:18:34:347 KERNEL/(31510:31515): Kernel listo para recibir
+[INFO] 20:18:44:164 KERNEL/(31537:31537): Conexion establecida con la memoria
+[INFO] 20:18:44:165 KERNEL/(31537:31542): Kernel listo para recibir
+[INFO] 23:56:27:702 KERNEL/(8848:8848): Conexion establecida con la memoria
+[INFO] 23:56:27:702 KERNEL/(8848:8853): Kernel listo para recibir
+[INFO] 23:56:30:858 KERNEL/(8848:8853): Proceso con id 0 ingreso a la cola de new
+[INFO] 23:56:30:859 KERNEL/(8848:8849): Proceso con id 0: New -> Ready 
+[INFO] 23:56:30:859 KERNEL/(8848:8851): Proceso con id 0: Ready -> Exec
+[INFO] 23:56:31:125 KERNEL/(8848:8853): Proceso con id 1 ingreso a la cola de new
+[INFO] 23:56:31:126 KERNEL/(8848:8849): Proceso con id 1: New -> Ready 
+[INFO] 23:56:31:162 KERNEL/(8848:8854): Proceso con id 0: Exec -> Ready (Interrupcion)
+[INFO] 23:56:31:162 KERNEL/(8848:8854): Proceso con id 0: Ready -> Exec
+[INFO] 23:56:31:386 KERNEL/(8848:8853): Proceso con id 2 ingreso a la cola de new
+[INFO] 23:56:31:386 KERNEL/(8848:8849): Proceso con id 2: New -> Ready 
+[INFO] 23:56:31:466 KERNEL/(8848:8854): Proceso con id 0: Exec -> Ready (Interrupcion)
+[INFO] 23:56:31:466 KERNEL/(8848:8854): Proceso con id 0: Ready -> Exec
+[INFO] 23:56:31:670 KERNEL/(8848:8853): Proceso con id 3 ingreso a la cola de new
+[INFO] 23:56:31:671 KERNEL/(8848:8849): Proceso con id 3: New -> Ready 
+[INFO] 23:56:31:772 KERNEL/(8848:8854): Proceso con id 0: Exec -> Ready (Interrupcion)
+[INFO] 23:56:31:772 KERNEL/(8848:8854): Proceso con id 0: Ready -> Exec
+[INFO] 23:56:32:494 KERNEL/(8848:8853): Proceso con id 4 ingreso a la cola de new
+[INFO] 23:56:32:494 KERNEL/(8848:8849): Proceso con id 4: New -> Ready 
+[INFO] 23:56:32:875 KERNEL/(8848:8854): Proceso con id 0: Exec -> Ready (Interrupcion)
+[INFO] 23:56:32:875 KERNEL/(8848:8854): Proceso con id 0: Ready -> Exec
